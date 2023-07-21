@@ -28,6 +28,17 @@ This is a dashboard where users can execute different queries and get data in ta
 - View very large chunk of data without page getting crashed.
 - Download CSV file for the data in the table
 
+## Performance
+
+![Screenshot from 2023-07-20 15-48-40](https://github.com/vibhuvV/sql-playground/assets/43906821/5fe8aaa3-92aa-454b-9676-d5883ace3b2f)
+![Screenshot from 2023-07-22 04-50-57](https://github.com/vibhuvV/sql-playground/assets/43906821/a74c278d-d8a7-43ca-9de7-9b45a14da209)
+
+## Optimizations
+
+- I used virtualization in table to only render that data which is visible to the user. So that the application can load very large data without crashing.
+- Used minimal packages and dependencies. Checked their sizes before installing them.
+- Only added required components from UI library.
+
 ## How to Setup
 
 Install `nvm` [Link](https://github.com/nvm-sh/nvm)
