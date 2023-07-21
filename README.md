@@ -30,7 +30,7 @@ This is a dashboard where users can execute different queries and get data in ta
 
 ## Performance
 
-![Screenshot from 2023-07-20 15-48-40](https://github.com/vibhuvV/sql-playground/assets/43906821/5fe8aaa3-92aa-454b-9676-d5883ace3b2f)
+![Screenshot from 2023-07-22 04-38-35](https://github.com/vibhuvV/sql-playground/assets/43906821/5a21d790-4dda-4b19-a823-049a95956329)
 ![Screenshot from 2023-07-22 04-50-57](https://github.com/vibhuvV/sql-playground/assets/43906821/a74c278d-d8a7-43ca-9de7-9b45a14da209)
 
 ## Optimizations
